@@ -1,0 +1,21 @@
+```json
+{
+"name": "simple-token-wallet",
+"version": "1.0.0",
+"main": "server.js",
+"type": "module",
+"scripts": {
+"start": "node server.js"
+},
+"dependencies": {
+"cookie-session": "^2.0.0",
+"csurf": "^1.11.0",
+"ejs": "^3.1.10",
+"express": "^4.19.2",
+"helmet": "^7.1.0",
+"nodemailer": "^6.9.13",
+"sqlite3": "^5.1.7",
+"uuid": "^9.0.1"
+}
+}
+```
